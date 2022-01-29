@@ -4,12 +4,17 @@ date: 2022-01-27T22:27:20Z
 draft: false
 ---
 
+### Education
 
-## Duke University
+#### Duke University
+- Master in Computer Science 
+- 2020 - 2022
 
-Master in Computer Science 
-## Ohio State University
+#### Ohio State University
+- Bachelor in Computer Science Engineering
+- 2017 - 2020
 
-Bachelor in Computer Science Engineering
+### Software Development Engineer
 
-# Software Development Engineer
+#### Software Development Engineer Intern at Amazon
+- May - Aug 2021
