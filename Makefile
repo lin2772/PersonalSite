@@ -7,4 +7,8 @@ sync:
 
 build-deploy-local: build sync
 
+clean:
+	echo "deleting generated HTML"
+	rm -rf public
+
 all: build 

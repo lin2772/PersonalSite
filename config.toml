@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "http://personalsite-bucket.s3-website-us-east-1.amazonaws.com"
 title = "Weilie"
 theme = "hugo-coder"
 languageCode = "en"
@@ -10,6 +10,11 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "awsbucket"
+URL = "s3://personalsite-bucket/?region=us-east-1" #your bucket here
 
 [params]
 author = "Weilie Lin"
